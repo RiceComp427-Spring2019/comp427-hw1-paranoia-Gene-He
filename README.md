@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Yijun HE
 
-_Student NetID_: dwallach
+_Student NetID_: yh61
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
@@ -21,12 +21,32 @@ what we need here.
 _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
+Because of late registration (sorry about that), I can only see this github repository on Jan 19. The late submission request is not approved yet. Below is the text from Nathan.
+
+> Dan your thoughts?
+> — :: Nathan Dautenhahn :: — 
+> On Jan 18, 2019, at 5:23 AM, <yijun.he@rice.edu> <yijun.he@rice.edu> wrote:
+> 
+> Hi Nathan,
+>  
+> I have found the mail sent from Piazza, I can see the course now. Please ignore the previous mail.
+>  
+> May I request a 2 days late for HW1 because the late registration? I just know that the due date of HW1 is Thursday, when I can see the course in Piazza
+>  
+> Many thanks,
+> Yijun
+
+
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Documents
 - Assumptions:
-  - explain_your_assumptions
+  - The documents are very important to the law firm. Lawers need this document to track the cases of each customer.
 - Assets:
-  - explanatory_paragraph
+  - The confidentiality of the documents.
+  - The authenticity of these documents.
+  - The availability of these documents.
+  - The integrity of these documents.
+  
   - explanatory_paragraph ...
 - Threats:
   - explanatory_paragraph 
