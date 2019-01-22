@@ -58,30 +58,42 @@ Because of late registration (sorry about that), I can only see this github repo
   - To ensure integrity, we can record every modification detail of each document, like what we can see in a file history of a GitHub repository. When a document is modified unintended, we can track the modification history and detect the error very soon.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Grading
 - Assumptions:
-  - explain_your_assumptions
+  - I have received all the homework submission in paper format.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The intelligence property in these homework.
+  - The fairness of grading.
+  - The record of grading.
+  - The privacy of the grading of students
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Some of students might plagiarize from each other or from the Internet resources.
+  - The submitted homework might be stolen, lost or ruined by a cup of coffee, etc.
+  - The grading might be unfair.
+  - The record of grading might be incorrect or lost. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - It would be time-consuming to compare all the homework for plagiarism, sampling some of them is one of the option. If the homework is submitted digitally, we can use some Anti-Plagiarism software to check thoroughly.
+  - The homework should be locked securely in the office. We should avoid bringing them to public environment or the dining room.
+  - A standard grading rubrics should be designed for each homework to ensure the fairness. We should also sample some graded homework to double check if it is graded correctly.
+  - A digital record is recommended for record the grading. We can mark down the grading both on the paper and in the digital grading spreed sheet. After grading all the submissions, we can sample some of them to verify the grading is well recorded. The digital record should be backup as soon as possible and well protected by password so that the privacy of student can be also protected.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: I am going to a gym.
 - Assumptions:
-  - explain_your_assumptions
+  - I am with my backpack.
+  - I will mainly focus on treadmill
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The laptop and wallet in my backpack.
+  - The wellness of my knees, my ankles and toes.
+  - The wellness of my muscles.
+  - My body temperature.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - My laptop and wallet might be stolen.
+  - My knees, ankles or toes would get injured if I fell from the the treadmill.
+  - My muscles would be painful.
+  - My body temperature would get too high or even get dehydrated or heat stroke.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Put the backpack back home, it would take a lot of time. Or simply buy a lock for the locker, cost few bucks but the lock can be reused next time.
+  - Buy protective equipments including kneepad, ankle guard, running shoes for wellness. Or being risky to injury.
+  - Get enough water before, during and after running, or go to a gym with air-conditioner, which might be expensive.
 
